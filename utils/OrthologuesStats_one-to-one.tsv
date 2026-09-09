@@ -1,0 +1,6 @@
+	SP803280_proteinas	Saccharum_officinarum_LA_Purple.protein	Saccharum_spontaneum_AP85-441.protein	Saccharum_spontaneum_NpX.protein	sorgo_proteinas
+SP803280_proteinas	0.0	186779.0	20094.0	37287.0	836.0
+Saccharum_officinarum_LA_Purple.protein	186779.0	0.0	11270.0	24022.0	1516.0
+Saccharum_spontaneum_AP85-441.protein	20094.0	11270.0	0.0	14955.0	7218.0
+Saccharum_spontaneum_NpX.protein	37287.0	24022.0	14955.0	0.0	2119.0
+sorgo_proteinas	836.0	1516.0	7218.0	2119.0	0.0
