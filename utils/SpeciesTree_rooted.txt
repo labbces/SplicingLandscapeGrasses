@@ -1,0 +1,1 @@
+(sorgo_proteinas:0.0673684,(Saccharum_spontaneum_AP85-441.protein:0.0977784,(Saccharum_spontaneum_NpX.protein:0.0731392,(Saccharum_officinarum_LA_Purple.protein:0.0600042,SP803280_proteinas:0.0187981)1:0.0157995)1:0.0134392)1:0.0673684);
